@@ -1,3 +1,5 @@
+Merged into cozely, so this repository is archived.
+
 # Carol
 
 [![GoDoc](https://godoc.org/github.com/drakmaniso/carol?status.svg)](https://godoc.org/github.com/drakmaniso/carol)
